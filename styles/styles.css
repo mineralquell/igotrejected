@@ -1,24 +1,18 @@
 
+.container, .special{
+	  text-align: center;
 
-
-.special {
-  font-family: system-ui;
-}
-h1 {
-	font-family: system-ui;
-  
 }
 
-.outer {
-  border: 1px solid black;
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-.box {
-  font-family: system-ui;
-  padding: 10px;
-  background-color: #F9F9DB;
+.card-header {
+    background-color: white;
 }
-h2 {font-family: serif;}
-p {
-	font-family: serif;
+.card-body{
+background-color: white;
 }
